@@ -15,7 +15,7 @@ This component can be found under the **CoreAcademy** account on Community Conte
 
 ## Overview
 
-The Costume Equipper component makes it easy to create and equip costumes on players. It uses the new costume retarget component to handle bone offsets to work with different rigs.
+The Costume Equipper component makes it easy to create and equip costumes on players. It uses the new costume retarget component to handle bone offsets which allow proportional editing.
 
 ## How to use
 

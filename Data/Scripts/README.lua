@@ -10,7 +10,7 @@
 ----------------------------------------------------------------------------------------
 
 The Costume Equipper component makes it easy to create and equip costumes on players. It uses the new costume
-retarget component to handle bone offsets to work with different rigs.
+retarget component to handle bone offsets which allow proportional editing.
 -----------------------------------------------------------------------------------------------------------------
 
 ==========
